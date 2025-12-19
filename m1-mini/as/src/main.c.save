@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <easyargs.h>
+
+#define REQUIRED_ARGS \
+    REQUIRED_STRING_ARG(SourceFile, 
+"input", "Source file path") \ 
+
+int main() {
+    printf("krabba!\n");
+
+  return 0;
+}
