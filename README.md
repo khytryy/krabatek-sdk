@@ -1,4 +1,4 @@
 # KrabaTekSDK
-## Software development kit for KrabaTek's CPUs
+Software development kit for KrabaTek's CPUs
 
 
